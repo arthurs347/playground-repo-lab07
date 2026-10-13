@@ -1,5 +1,7 @@
 # Lab Playground Repo
 
+Oscar was here!
+
 Welcome! This repo exists so you can practice **forking, cloning, and contributing**
 without the stress of potentially breaking something.
 
